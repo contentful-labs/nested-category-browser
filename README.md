@@ -1,5 +1,12 @@
 # Nested Category Browser Contentful UI Extension
 
+❗ Disclaimer
+=====
+
+**This project is not actively maintained or monitored.** Feel free to fork and work on it in your account. If you want to maintain but also collaborate with fellow developers, feel free to reach out to [Contentful's Developer Relations](mailto:devrel-mkt@contentful.com) team to move the project into our community GitHub organisation [contentful-userland](https://github.com/contentful-userland/).
+
+-----
+
 This extension lets you display a nested tree of categories with checkboxes to display and edit which categories are selected.
 
 ![image](https://user-images.githubusercontent.com/6521666/36640958-3fde764a-1a7c-11e8-929b-56574bb6bec0.png)
